@@ -24,11 +24,14 @@ This is a **Streamlit web application** for encrypting and decrypting text using
 
 ---
 
-## Setup Instructions
+## Author
+Chinthagunta Vamshi Krishna
+B.Tech 3rd year, Institute of Aeronautical Engineering
+Specialization: Computer Science and Engineering (AI & ML)
 
-Follow these steps to run the project locally:
+## Contact: 
+vamshikrishna6475@gmail.com 
+## GitHub: 
+krishna6475
 
-### 1. Clone the Repository
-```bash
-git clone https://github.com/Krishna6475/Multi-Layer-Hybrid-CryptoSystem-Combining-RSA-AES-Vigenere-Polybius-ciphers-for-Robust-Data-Security.git
-cd Multi-Layer-Hybrid-CryptoSystem-Combining-RSA-AES-Vigenere-Polybius-ciphers-for-Robust-Data-Security
+Let me know if you need further assistance! 😊
