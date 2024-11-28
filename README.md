@@ -30,5 +30,5 @@ Follow these steps to run the project locally:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/<your-repo-name>.git
-cd <your-repo-name>
+git clone https://github.com/Krishna6475/Multi-Layer-Hybrid-CryptoSystem-Combining-RSA-AES-Vigenere-Polybius-ciphers-for-Robust-Data-Security.git
+cd Multi-Layer-Hybrid-CryptoSystem-Combining-RSA-AES-Vigenere-Polybius-ciphers-for-Robust-Data-Security
