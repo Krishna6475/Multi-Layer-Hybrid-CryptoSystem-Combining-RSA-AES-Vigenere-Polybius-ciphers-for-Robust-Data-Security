@@ -1,37 +1,86 @@
-# Multi-Layer-Hybrid-CryptoSystem-Combining-RSA-AES-Vigenere-Polybius-ciphers-for-Robust-Data-Security
-# Multi-Layer Hybrid Cryptographic System
+# 🔒 Hybrid Cryptographic System
 
-This is a **Streamlit web application** for encrypting and decrypting text using a multi-layer hybrid cryptographic approach. The system combines **Polybius Cipher**, **Vigenère Cipher**, **AES (Advanced Encryption Standard)**, and **RSA (Rivest–Shamir–Adleman)** algorithms to provide enhanced security.
+## 📌 Project Overview  
+This project implements a **multi-layer hybrid encryption system** integrating **AES, RSA, Vigenère, and Polybius ciphers** to ensure **secure and efficient data encryption**. By combining **symmetric and asymmetric encryption**, this system provides robust **data confidentiality, integrity, and security**.
 
-## Features
-
-- **Encryption**: Secure your message with multiple layers of encryption.
-- **Decryption**: Decode encrypted messages back to plaintext.
-- **User-friendly Interface**: Built using Streamlit for seamless interaction.
-- **Hybrid Cryptographic Model**:
-  - **Polybius Cipher** for initial encryption.
-  - **Vigenère Cipher** for text-based key encryption.
-  - **AES** for fast, symmetric encryption.
-  - **RSA** for secure key exchange.
+### ✨ Key Features  
+✅ **Multi-Layer Encryption** – Uses **AES, RSA, Vigenère, and Polybius ciphers** for enhanced security.  
+✅ **Secure Key Exchange** – RSA encryption protects AES keys for secure transmission.  
+✅ **Data Integrity Assurance** – Ensures encryption remains uncompromised against attacks.  
+✅ **Python-Based Implementation** – Easy-to-use and efficient cryptographic system.  
 
 ---
 
-## Technologies Used
-
-- **Streamlit**: Web application framework for deploying Python scripts.
-- **Crypto**: Python library for cryptographic algorithms.
-- **Python**: Main programming language for backend logic.
+## 🛠️ Technologies Used  
+🔹 **Cryptography:** AES (Advanced Encryption Standard), RSA (Rivest-Shamir-Adleman), Vigenère Cipher, Polybius Cipher  
+🔹 **Programming Language:** Python  
+🔹 **Libraries:** PyCryptodome (for AES & RSA), NumPy, Random, Base64  
+🔹 **Framework:** Flask (Optional for API Integration)  
 
 ---
 
-## Author
-Chinthagunta Vamshi Krishna
-B.Tech 3rd year, Institute of Aeronautical Engineering
-Specialization: Computer Science and Engineering (AI & ML)
+## 🚀 Live Demo  
+🔗 **Try it here:** [SecureLayers Streamlit App](https://securelayers.streamlit.app/)  
 
-## Contact: 
-vamshikrishna6475@gmail.com 
-## GitHub: 
-krishna6475
+---
 
-Let me know if you need further assistance! 😊
+## 🚀 Installation & Setup  
+### **1️⃣ Clone the Repository**  
+```bash  
+git clone https://github.com/Krishna6475/Hybrid-Cryptographic-System.git  
+cd Hybrid-Cryptographic-System  
+```
+
+### **2️⃣ Install Dependencies**  
+```bash  
+pip install -r requirements.txt  
+```
+
+### **3️⃣ Run the Application (If Applicable)**  
+```bash  
+python hybrid_cryptosystem.py  
+```
+
+---
+
+## 🔑 Encryption & Decryption Process  
+1️⃣ **Polybius Cipher** – Converts plaintext into numeric grid-based encryption.  
+2️⃣ **Vigenère Cipher** – Applies key-based letter shifts for additional security.  
+3️⃣ **AES Encryption** – Encrypts data using a symmetric encryption key.  
+4️⃣ **RSA Encryption** – Secures the AES key with asymmetric encryption.  
+
+---
+
+## 📈 Use Cases  
+🔹 **Secure Data Transmission** – Encrypt messages before sending over a network.  
+🔹 **File Encryption** – Protect confidential files using multi-layer encryption.  
+🔹 **Authentication Systems** – Implement in secure login mechanisms.  
+
+---
+
+## 🤝 Contribution Guidelines  
+Contributions are welcome! Follow these steps to contribute:  
+1. **Fork the repository**  
+2. **Create a new branch** (`git checkout -b feature-branch`)  
+3. **Commit your changes** (`git commit -m "Add new feature"`)  
+4. **Push to GitHub** (`git push origin feature-branch`)  
+5. **Create a Pull Request**  
+
+---
+
+## 📜 License  
+This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.  
+
+---
+
+## 📩 Contact & Acknowledgments  
+👤 **Chinthagunta Vamshi Krishna**  
+✉️ Email: [your-email@example.com](mailto:your-email@example.com)  
+🔗 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)  
+
+💡 **Acknowledgments:**  
+- Inspired by cryptographic security principles.   
+
+---
+
+🚀 *This project is a demonstration of hybrid cryptography principles and can be further optimized for advanced security applications.*
